@@ -1,0 +1,153 @@
+checklist
+quality
+QMS framework
+KM
+OTACE
+UPM
+PDCA
+issue
+defect
+quality policies
+colspan
+required field
+styles
+css
+capgemini logo
+id selector in css
+class selector
+hover tag
+disable text box 
+cookies in js
+well formed xml
+xsd combo box (complex type, sequence)
+xml schmema consists of(vocabulary, structure)
+state of an object
+access modifiers
+constructors
+destructors
+instance variables
+aggregation
+concrete classes
+polymorphism
+can an interface implement functionalities of a class?
+views in uml
+diagrams in uml
+types of testing
+versioning
+configuration manager
+base line
+
+
+
+anonymous
+lambda
+serialization
+data types
+generics
+array list
+collections
+hashtable
+generic constraints
+Enumerators
+yield
+interfaces for iterator
+diff types of serialization
+files in IO
+attributes
+reflection
+custom attribute
+parallelism
+optional parameter
+named arguements
+co-variance contra variance
+ 
+
+MDI
+panel vs group box
+
+  WPF
+
+panels
+delay
+data binding(element name)
+INotifyPropertyChange
+Observable collection
+styles
+routed events
+dependency property
+
+
+
+
+ADO.NET
+
+connection pooling
+data reader
+data set
+excecute non query
+accept changes, reject changes(with data sets)
+dataAdapter.update ?
+row state
+namespace for xml in ado.net
+xml node, xml document
+
+linq
+
+all operators
+
+EF
+
+constraints in EF
+[Key] System.DataAnnotations
+
+JQuery
+
+event handling 
+on and off
+bind
+selectors
+
+
+
+
+ASP.NET
+
+page life cycle
+IIS
+validators
+tracing debugging
+master pages themes
+skin  skin ID
+data binding
+Grid view, repeater,object data source
+strongly typed
+client server
+session state modes
+global.asax
+events in global.asax
+declare application variable
+page inspector
+authentication, authorization
+deny roles=?
+membership purpose
+
+MVC
+action filter, methods
+controller in route.config
+EF in MVC
+view bag, view data, temp view
+data binding in MVC
+
+
+Web API
+config.cs
+request in Web API
+Authorize, security
+
+
+
+
+
+
+
+
